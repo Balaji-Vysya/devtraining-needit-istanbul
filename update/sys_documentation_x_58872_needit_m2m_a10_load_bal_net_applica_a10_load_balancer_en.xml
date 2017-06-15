@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="a10_load_balancer" label="A10 Load Balancer" language="en" table="x_58872_needit_m2m_a10_load_bal_net_applica">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>a10_load_balancer</element>
+            <help/>
+            <hint/>
+            <label>A10 Load Balancer</label>
+            <language>en</language>
+            <name>x_58872_needit_m2m_a10_load_bal_net_applica</name>
+            <plural>A10 Load Balancers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-31 07:17:11</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>ae7f92f5db43b200286b71efbf961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>A10 Load Balancer</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_m2m_a10_load_bal_net_applica_a10_load_balancer_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-31 07:17:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
